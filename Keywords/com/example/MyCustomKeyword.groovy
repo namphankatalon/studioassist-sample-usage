@@ -26,11 +26,8 @@ public class MyCustomKeyword {
 
 	/**
 	 * The following prompt is for generating a custom keyword with Kai
-
 	 *
-
 	 * Select the prompt -> Right-click -> Kai -> Generate Code
-
 	 */
 
 	/*
