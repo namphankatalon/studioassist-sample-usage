@@ -18,9 +18,9 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 /**
- * The following prompt is for explaining a script in test case using StudioAssist
- * 
- * Select the code -> Right-click -> StudioAssist -> Explain Code
+ * The following prompt is for explaining a script in test case using Kai
+ *
+ * Select the code -> Right-click -> Kai -> Explain Code
  */
 
 WebUI.openBrowser(GlobalVariable.G_SiteURL)

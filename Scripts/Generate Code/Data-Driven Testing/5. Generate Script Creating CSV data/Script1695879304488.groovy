@@ -18,9 +18,9 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 /**
- * The following prompt is for generating script that creates CSV test data with StudioAssist
- * 
- * Select the prompt -> Right-click -> StudioAssist -> Generate Code
+ * The following prompt is for generating script that creates CSV test data with Kai
+ *
+ * Select the prompt -> Right-click -> Kai -> Generate Code
  */
 
 /* - Create a CSV file named 'Data Files/data.csv' using java.io, listout libraries need to import
