@@ -18,9 +18,9 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 /**
- * The following prompt is for explaining a script in test case using Kai
+ * The following prompt is for explaining a script in test case using Katalon AI Assistant
  *
- * Select the code -> Right-click -> Kai -> Explain Code
+ * Select the code -> Right-click -> Katalon AI Assistant -> Explain Code
  */
 
 WebUI.openBrowser(GlobalVariable.G_SiteURL)

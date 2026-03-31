@@ -18,9 +18,9 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 /**
- * The following prompt is for generating code with Kai by listing out actions as steps
+ * The following prompt is for generating code with Katalon AI Assistant by listing out actions as steps
  *
- * Select the prompt -> Right-click -> Kai -> Generate Code
+ * Select the prompt -> Right-click -> Katalon AI Assistant -> Generate Code
  */
 
 /*

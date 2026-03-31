@@ -1,6 +1,6 @@
-# Kai Tests
+# Katalon AI Assistant Tests
 
-Navigate to [Sample Kai project](https://docs.katalon.com/docs/get-started/sample-projects/studioassist/sample-studioassist-project) for further details.
+Navigate to [Sample Katalon AI Assistant project](https://docs.katalon.com/docs/get-started/sample-projects/studioassist/sample-studioassist-project) for further details.
 
 ## Companion products
 

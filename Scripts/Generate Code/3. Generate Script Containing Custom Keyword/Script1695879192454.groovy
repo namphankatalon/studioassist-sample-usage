@@ -18,12 +18,12 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 /**
- * The following prompt is for generating a script that contains custom keyword with Kai
+ * The following prompt is for generating a script that contains custom keyword with Katalon AI Assistant
  *
  * You need to generate the script for `Keywords/com.example/MyCustomKeyword.groovy`
  * before generating code in this file
  *
- * Select the prompt -> Right-click -> Kai -> Generate Code
+ * Select the prompt -> Right-click -> Katalon AI Assistant -> Generate Code
  * 
  */
 
